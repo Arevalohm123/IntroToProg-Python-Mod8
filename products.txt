@@ -1,0 +1,5 @@
+Taco,2
+Cup,3
+Rock,1
+cat,3
+Paper,3
